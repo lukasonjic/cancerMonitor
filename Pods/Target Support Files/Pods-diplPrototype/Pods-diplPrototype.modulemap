@@ -1,0 +1,6 @@
+framework module Pods_diplPrototype {
+  umbrella header "Pods-diplPrototype-umbrella.h"
+
+  export *
+  module * { export * }
+}

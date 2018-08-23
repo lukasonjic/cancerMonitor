@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.2)
+  - SwiftyJSON (4.1.0)
+  - Toaster (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyJSON
+  - Toaster
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - SwiftyJSON
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+
+PODFILE CHECKSUM: a77dbc988af679d94ade9c35a2ddf77821835cc7
+
+COCOAPODS: 1.5.0
